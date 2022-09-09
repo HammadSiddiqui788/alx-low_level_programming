@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Repo for C tasks for alx
+all C day2 tasks
